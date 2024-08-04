@@ -7,7 +7,7 @@
 ## Duration:July to 20,August,2024 
 ## Mentor:Muzammil Ahmed Contact: +91 96401 28015
 
-# objective topic"task-4 SOCIAL MEDIA SENTIMENT ANALYSIS"
+# objective topic"task-4 STOCK MARKET ANALYSIS AND PREDICTION"
 perfomed data analysis on the topic "STOCK MARKET ANALYSIS AND PREDICTION" from the provided data set and created simple data representation in tableau software and charts in spreadsheets.
 
 # code
